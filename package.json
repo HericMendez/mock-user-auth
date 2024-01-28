@@ -41,7 +41,7 @@
     "nyc": "13.3.0"
   },
   "engines": {
-    "node": "11.x",
+    "node": "18.x",
     "npm": "6.x"
   },
   "keywords": [
